@@ -4,7 +4,7 @@ My tryhackme labs journey
 - [Basic Pentesting](Basic%20Pentesting.md)
 ## Web app enum & uploads
 - [Blog](Blog.md)
-- Ignite
+- [Ignite](Ignite.md)
 - OWASP Juice Shop
 - File Upload Vulnerabilities
 ## Service Enum 
