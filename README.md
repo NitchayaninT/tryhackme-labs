@@ -5,7 +5,7 @@ My tryhackme labs journey
 - [Blog](Blog.md)
 - [Ignite](Ignite.md)
 - [RootMe](RootMe.md)
-- Skynet
+- [Skynet](Skynet.md)
 - Startup
 - Erit Securus I
 - Pivoting
