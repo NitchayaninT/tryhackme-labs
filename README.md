@@ -9,6 +9,7 @@ My tryhackme labs journey
 - [Skynet](Skynet.md)
 - [Startup](Startup.md)
 - [Internal](Internal.md)
+- [Wreath](Wreath.md) (hard)
 ## Windows
 - [Windows PrivEsc](Windows%20PrivEsc.md)
 - [Ice](Ice.md)
